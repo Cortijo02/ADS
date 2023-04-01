@@ -1,0 +1,9 @@
+Lógico_Desarrollo,I1. Monitor de Operaciones,I2. Controlador de operaciones,I3. Validación de Operaciones,I4. Almacenamiento BBDDs,I5. Cifrado BBDDs,I6. Redes de comunicación,I7. Interfaz de Usuarios,I8. Controlador de Usuarios,I9. Gestión de funcionalidades,I10. Almacenamiento BBDDs,I11. Cifrado BBDDs,I12. Redes de comunicación,I13. Gestión de calidad,I14. Cifrado de BBDDs,I15. Redes de comunicación,I16. Gestión de fugas,I17. Cifrado de BBDDs,I18. Redes de comunicación,I19. Gestión de acciones,I20. Cifrado de BBDDs,I21. Redes de comunicación
+L1. Usuario,-,-,-,-,-,-,X,X,X,X,X,X,-,-,-,-,-,-,-,-,-
+L2. Sensor: Dispositivo IoT,X,X,X,X,X,X,-,-,-,-,-,-,X,X,X,X,X,X,-,-,-
+L3. SensorCalidadAgua,X,X,X,X,X,X,-,-,-,-,-,-,X,X,X,-,-,-,-,-,-
+L4. SensorNivelAgua,X,X,X,X,X,X,-,-,-,-,-,-,-,-,-,X,X,X,-,-,-
+L5. Actuador,-,-,-,-,-,-,X,X,X,X,X,X,-,-,-,-,-,-,X,X,X
+L6. Tubería,X,X,X,X,X,X,-,-,-,-,-,-,X,X,X,X,X,X,X,X,X
+L7. Calle,X,X,X,X,X,X,-,-,-,-,-,-,X,X,X,X,X,X,X,X,X
+L8. Ciudad,X,X,X,X,X,X,-,-,-,-,-,-,X,X,X,X,X,X,X,X,X
